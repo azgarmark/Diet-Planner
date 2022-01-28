@@ -1,6 +1,9 @@
 # Diet-Planner
 A simple and featured diet planner.
 
+![Diet Planner Presentation](https://user-images.githubusercontent.com/57905845/151530198-336a4438-19a0-4bf6-9d1f-40ac13de83ad.jpg)
+
+
 # Features
 • BMI - A Body Mass Index Calculator
 • DIET PLANS**¹** - Suggesting the best diet plans for a day
